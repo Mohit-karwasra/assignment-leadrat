@@ -1,10 +1,12 @@
-Absolutely, here's the README in Markdown format:
-
----
-
 # Movie Theater Seat Booking System
 
 This project implements a Movie Theater Seat Booking System using React.js. It allows users to select and book seats for a movie screening.
+
+## Hosted Link
+
+```bash
+https://assignment-leadrat.vercel.app/
+```
 
 ## Features
 
